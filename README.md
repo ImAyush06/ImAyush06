@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,30&height=220&section=header&text=AYUSH%20KUMAR&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Full-Stack%20%26%20Systems%20Developer&descAlignY=60&descFontSize=19" width="100%" />
+<img src="https://raw.githubusercontent.com/ImAyush06/ImAyush06/main/header.svg" width="100%" alt="Ayush Kumar - Software Engineer" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/ImAyush06">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Full-Stack+Enterprise+Development+(Java+%26+Spring+Boot);High-Performance+Computing+(C%2B%2B+%26+WebAssembly);Data+Structures%2C+Algorithms+%26+System+Design;Lovely+Professional+University+|+B.Tech+CSE" alt="Technical Focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Full-Stack+Enterprise+Development+(Java+%26+Spring+Boot);High-Performance+Computing+(C%2B%2B+%26+WebAssembly);Data+Structures%2C+Algorithms+%26+System+Design;Lovely+Professional+University+|+B.Tech+CSE" alt="Technical Focus" />
 </a>
 
-<br/>
+<br/><br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushkumar066">
@@ -159,8 +159,6 @@ Computer Science and Engineering student at Lovely Professional University with 
       </td>
     </tr>
   </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImAyush06&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="80%" alt="GitHub Contribution Streak" />
 </div>
 
 ---
@@ -169,9 +167,5 @@ Computer Science and Engineering student at Lovely Professional University with 
 
 **Contact Information**  
 Email: [ayushsharma521978@gmail.com](mailto:ayushsharma521978@gmail.com) • LinkedIn: [linkedin.com/in/ayushkumar066](https://www.linkedin.com/in/ayushkumar066) • Phone: +91-6239548039
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23,30&height=100&section=footer" width="100%" />
 
 </div>
