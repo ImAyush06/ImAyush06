@@ -8,7 +8,7 @@ Lovely Professional University • Amritsar, Punjab, India
 
 ## Professional Overview
 
-Computer Science and Engineering student at Lovely Professional University with a rigorous academic and practical background in Object-Oriented Programming, Data Structures and Algorithms, Database Management Systems, and Operating Systems. Experienced in developing scalable full-stack applications with Java (Spring Boot) and MongoDB, high-performance computational modules using C++ and WebAssembly, and interactive web services.
+Computer Science student and Full Stack Web Developer at Lovely Professional University with a strong academic and practical foundation in Object-Oriented Programming, Data Structures and Algorithms, Database Management Systems, and Operating Systems. Experienced in developing scalable full-stack applications with Java (Spring Boot) and MongoDB, high-performance computational modules using C++ and WebAssembly, and interactive web services.
 
 ---
 
