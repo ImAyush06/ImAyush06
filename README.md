@@ -1,40 +1,14 @@
-<div align="center">
+# Ayush Kumar
 
-<img src="https://raw.githubusercontent.com/ImAyush06/ImAyush06/main/header.svg" width="100%" alt="Ayush Kumar - Software Engineer" />
-
-<br/><br/>
-
-<a href="https://github.com/ImAyush06">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Full-Stack+Enterprise+Development+(Java+%26+Spring+Boot);High-Performance+Computing+(C%2B%2B+%26+WebAssembly);Data+Structures%2C+Algorithms+%26+System+Design;Lovely+Professional+University+|+B.Tech+CSE" alt="Technical Focus" />
-</a>
-
-<br/><br/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayushkumar066">
-    <img src="https://img.shields.io/badge/LinkedIn-ayushkumar066-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:ayushsharma521978@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ayushsharma521978%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ImAyush06">
-    <img src="https://img.shields.io/badge/GitHub-ImAyush06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="tel:+916239548039">
-    <img src="https://img.shields.io/badge/Phone-%2B91--6239548039-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
-</p>
+**Computer Science and Engineering | Software Engineer**  
+Lovely Professional University • Amritsar, Punjab, India  
+[LinkedIn](https://www.linkedin.com/in/ayushkumar066) • [Email](mailto:ayushsharma521978@gmail.com) • [GitHub](https://github.com/ImAyush06)
 
 ---
 
-</div>
-
 ## Professional Overview
 
-Computer Science and Engineering student at Lovely Professional University with a rigorous academic and practical background in Object-Oriented Programming, Data Structures and Algorithms, Database Management Systems, and Operating Systems. Demonstrated experience engineering scalable full-stack applications with Java (Spring Boot) and MongoDB, high-performance computational modules using C++ and WebAssembly, and interactive web services.
+Computer Science and Engineering student at Lovely Professional University with a rigorous academic and practical background in Object-Oriented Programming, Data Structures and Algorithms, Database Management Systems, and Operating Systems. Experienced in developing scalable full-stack applications with Java (Spring Boot) and MongoDB, high-performance computational modules using C++ and WebAssembly, and interactive web services.
 
 ---
 
@@ -138,7 +112,7 @@ Computer Science and Engineering student at Lovely Professional University with 
 ## Training & Certifications
 
 - **Mastering Data Structures using Java**: Summer Training, Lovely Professional University
-  - Deep-dive into foundational and advanced data structures, algorithmic problem solving, and application architectures.
+  - Foundational and advanced data structures, algorithmic problem solving, and application architectures.
 - **Database Management System (Part 1 & Part 2)**: Infosys Springboard
   - Relational schema design, SQL optimization, normalization, indexing, and transactional integrity.
 - **Java Programming**: Infosys Springboard
@@ -163,9 +137,8 @@ Computer Science and Engineering student at Lovely Professional University with 
 
 ---
 
-<div align="center">
+## Contact
 
-**Contact Information**  
-Email: [ayushsharma521978@gmail.com](mailto:ayushsharma521978@gmail.com) • LinkedIn: [linkedin.com/in/ayushkumar066](https://www.linkedin.com/in/ayushkumar066) • Phone: +91-6239548039
-
-</div>
+- **Email**: [ayushsharma521978@gmail.com](mailto:ayushsharma521978@gmail.com)
+- **LinkedIn**: [linkedin.com/in/ayushkumar066](https://www.linkedin.com/in/ayushkumar066)
+- **GitHub**: [github.com/ImAyush06](https://github.com/ImAyush06)
