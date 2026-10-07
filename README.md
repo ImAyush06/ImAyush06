@@ -1,6 +1,6 @@
 # Ayush Kumar
 
-**Computer Science and Engineering | Software Engineer**  
+**Full Stack Web Developer | CS Student**  
 Lovely Professional University • Amritsar, Punjab, India  
 [LinkedIn](https://www.linkedin.com/in/ayushkumar066) • [Email](mailto:ayushsharma521978@gmail.com) • [GitHub](https://github.com/ImAyush06)
 
