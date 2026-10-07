@@ -101,11 +101,8 @@ Computer Science student and Full Stack Web Developer at Lovely Professional Uni
 
 ## Education
 
-| Institution | Degree / Program | Location | Timeline |
-| :--- | :--- | :--- | :--- |
-| **Lovely Professional University** | Bachelor of Technology - Computer Science and Engineering | Phagwara, Punjab | Aug 2024 - Present |
-| **Senior Study 2** | Intermediate Examination | Amritsar, Punjab | Apr 2020 - Mar 2022 |
-| **St. Francis School** | Matriculation Examination | Amritsar, Punjab | Apr 2019 - Mar 2020 |
+- **Lovely Professional University** (Phagwara, Punjab)  
+  *Bachelor of Technology in Computer Science and Engineering* (Aug 2024 – Present)
 
 ---
 
